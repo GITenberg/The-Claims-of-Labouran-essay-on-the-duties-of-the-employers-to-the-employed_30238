@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2469
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Helps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30238#The-Claims-of-Labouran-essay-on-the-duties-of-the-employers-to-the-employed
 gutenberg_issued: '2009-10-12'
 gutenberg_type: Text
 identifiers:
